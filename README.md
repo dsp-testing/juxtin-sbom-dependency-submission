@@ -34,3 +34,4 @@ There are GitHub Actions that submit SBOMs to the dependency submission API:
 ## Questions?
 
 Add a discussion in [community/community](https://github.com/community/community/discussions/categories/code-security) with any questions about the dependency graph, dependency submission API, or how to integrate them with SBOMs.
+
